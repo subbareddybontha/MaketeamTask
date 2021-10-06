@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/byte-buddy-1.10.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/dom4j-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/hibernate-core-5.4.19.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/jandex-2.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/roshankatkam/Desktop/Hibernate Jar files/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

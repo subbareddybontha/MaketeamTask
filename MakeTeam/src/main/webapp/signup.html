@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+body{
+background-color:#8dacfe;
+color:red;
+}
+a{
+color:#fd2a2a;
+}
+h1{
+color:#2408f1;
+}
+h2{
+color:#02d65a;
+}
+h3{
+color:#d60202;
+}
+h4{
+color:#33f9fb;
+}
+h5{
+color:#fb337f;
+}
+h6{
+color:#fbf933;
+}
+
+</style>
+
+</head>
+<body>
+<form action="SignupServlet"> 
+<h1>Welcome Signup Form</h1>
+Name:<input type="text" name="name" required> <br><br>
+Email:<input type="email" name="email"required><br><br>
+Password:<input type="password" name="password" required> <br><br>
+Mobile Number:<input type="number" name="mobile" required><br><br>
+<label for="subject">Specilization Subject:</label>
+
+<select name="subject" id="subject">
+  <option value="maths">Maths</option>
+  <option value="english">English</option>
+  <option value="physics">Physics</option>
+  <option value="computer">Computer</option>
+  <option value="economice">Economics</option>
+</select><br><br>
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</form><br><br>
+Existing User:<a href="login.html"> Login</a><br><br>
+<a href="home.html">Home Page</a>
+</body>
+</html>
